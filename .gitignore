@@ -38,6 +38,3 @@ target/
 
 # temp
 buckets
-
-logs/*
-!logs/sample-console-logs/
